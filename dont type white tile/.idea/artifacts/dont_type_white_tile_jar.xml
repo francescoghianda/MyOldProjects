@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dont type white tile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dont_type_white_tile_jar</output-path>
+    <root id="archive" name="dont type white tile.jar">
+      <element id="module-output" name="dont type white tile" />
+    </root>
+  </artifact>
+</component>
